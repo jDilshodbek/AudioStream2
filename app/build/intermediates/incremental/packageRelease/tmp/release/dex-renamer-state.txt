@@ -1,0 +1,4 @@
+#Mon Feb 10 17:53:20 UZT 2020
+base.0=/Users/admin/Downloads/AudioStream-master/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

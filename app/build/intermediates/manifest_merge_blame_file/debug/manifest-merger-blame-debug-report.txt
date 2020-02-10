@@ -1,0 +1,107 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.viconajz.audiostream"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:6:5-68
+12-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:6:22-65
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:7:5-77
+13-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:24:5-79
+14-->[com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:24:22-76
+15
+16    <application
+16-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:9:5-45:19
+17        android:name="com.viconajz.audiostream.App"
+17-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:10:9-28
+18        android:allowBackup="true"
+18-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:13:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:17:9-40
+27        android:usesCleartextTraffic="true" >
+27-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:16:9-44
+28        <activity
+28-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:18:9-26:20
+29            android:name="com.viconajz.audiostream.ui.activities.MainActivity"
+29-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:19:13-55
+30            android:windowSoftInputMode="adjustResize" >
+30-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:20:13-55
+31            <intent-filter>
+31-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:22:17-69
+32-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:24:17-77
+34-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <service
+38-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:28:9-30:61
+39            android:name="com.viconajz.audiostream.ui.fragments.stream.StreamingService"
+39-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:29:13-65
+40            android:foregroundServiceType="mediaPlayback" />
+40-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:30:13-58
+41
+42        <receiver
+42-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:32:9-37:20
+43            android:name="com.viconajz.audiostream.receivers.StreamPlayStopReceiver"
+43-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:32:19-67
+44            android:exported="false" >
+44-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:32:68-92
+45            <intent-filter>
+45-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:33:13-36:29
+46                <action android:name="com.viconajz.audiostream.services.PLAY" />
+46-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:34:17-81
+46-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:34:25-78
+47                <action android:name="com.viconajz.audiostream.services.PAUSE" />
+47-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:35:17-82
+47-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:35:25-79
+48            </intent-filter>
+49        </receiver>
+50        <receiver
+50-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:39:9-44:20
+51            android:name="com.viconajz.audiostream.receivers.BufferingReceiver"
+51-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:39:19-62
+52            android:exported="false" >
+52-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:39:63-87
+53            <intent-filter>
+53-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:40:13-43:29
+54                <action android:name="BUFFERING" />
+54-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:41:17-52
+54-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:41:25-49
+55                <action android:name="UPDATE_PLAYER" />
+55-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:42:17-56
+55-->/Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:42:25-53
+56            </intent-filter>
+57        </receiver>
+58    </application>
+59
+60</manifest>

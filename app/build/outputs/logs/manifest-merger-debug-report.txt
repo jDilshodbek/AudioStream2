@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/543576dc17d81a69d860d154b4a84550/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/87f2cbd035863a17ecfefd1e98d142a3/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/admin/.gradle/caches/transforms-2/files-2.1/907bc68f9304b066dadf3ca5fc0b3718/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/32a5a2cb39785c813469e8ff606ea1aa/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/85413a20869172d0d639820e30447e01/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/1f68b2952e2c6cae64d31b5fcb1ee47b/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/bfbb16a8952273d4734488634518723a/butterknife-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/9ec5d2433eef923cc5afa6ad3f9de6f1/exoplayer-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/57f45b0254c33b6ff73db96f79ad34c4/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9e616f288b9d36258a1b35328b5a6955/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/0a427d6ce5212da5be8288d8d2907f7f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/319489e91c0ce08f1037364f68815c19/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/411a8340be30b3a557e5be3132599165/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/78a331dbcf50c616fb569de9702bb8f4/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dc8ca8b35a0bbe8bdbb0185f9ef738d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5eef5c511ebb8ba5e5d3139f2a967e74/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/331060ca584e4481b08baacb3b238976/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/57f3b689fca02b32b838afad4a871174/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bfe1cb666a5fc5338bbaa0edf39402a1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7d683ae9b5c5afbe754341019a9924a9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/37296bbe7a5286e7d2591897fb38f212/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6c9b35a6b1f8efe62c76bd5d76d83e08/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/fc5af0a0644f76937a199afc19f29c4d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7b5e8430b60f5b481d95a70be6ae161a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/29d0746cd1eac81edd8810736ebea592/exoplayer-ui-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/5dc778097e93921154157b3a4c24ba8e/media-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a3d96439bd225b6c5ff0e02c67082dae/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b5b23c677ec7d6e3b0c526db16544fc1/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/2f2a24efab011d5c8ee4d1412a0d2432/exoplayer-dash-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/08440bb6f6bafdc7938ad72fa6582fb2/exoplayer-hls-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/17d3554d3f66b1cf6a0950d131b31913/exoplayer-smoothstreaming-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/46129a4685578d3901e8567b6225ec94/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/134d245d9651542f07871bdd7ce4f79a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/be89e7935a4df91222f1108fb7971313/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/61a06285d744c7ba7ba8223e5c6b6fce/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e8fd8387966b376eea2b137d3a1b3662/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9bd49159e89768a76a50ac0a4f61eec8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a6724ac5e57a0e074e6f121f81e05c3d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f83235792c88866d71bf45ed3b570485/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b1b87304918e2c86df11fe77f96de18a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/aa2b8237eb4092400120d1e4b86ce28e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/807508998231e630b6615868d85a77ad/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:7:22-74
+application
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:9:5-45:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/543576dc17d81a69d860d154b4a84550/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/543576dc17d81a69d860d154b4a84550/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/admin/.gradle/caches/transforms-2/files-2.1/907bc68f9304b066dadf3ca5fc0b3718/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/admin/.gradle/caches/transforms-2/files-2.1/907bc68f9304b066dadf3ca5fc0b3718/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/46129a4685578d3901e8567b6225ec94/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/46129a4685578d3901e8567b6225ec94/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:17:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:10:9-28
+activity#com.viconajz.audiostream.ui.activities.MainActivity
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:windowSoftInputMode
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:19:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:24:27-74
+service#com.viconajz.audiostream.ui.fragments.stream.StreamingService
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:28:9-30:61
+	android:foregroundServiceType
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:29:13-65
+receiver#com.viconajz.audiostream.receivers.StreamPlayStopReceiver
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:exported
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:32:68-92
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:32:19-67
+intent-filter#action:name:com.viconajz.audiostream.services.PAUSE+action:name:com.viconajz.audiostream.services.PLAY
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:33:13-36:29
+action#com.viconajz.audiostream.services.PLAY
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:34:25-78
+action#com.viconajz.audiostream.services.PAUSE
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:35:25-79
+receiver#com.viconajz.audiostream.receivers.BufferingReceiver
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:39:9-44:20
+	android:exported
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:39:63-87
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:39:19-62
+intent-filter#action:name:BUFFERING+action:name:UPDATE_PLAYER
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:40:13-43:29
+action#BUFFERING
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:41:17-52
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:41:25-49
+action#UPDATE_PLAYER
+ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:42:17-56
+	android:name
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml:42:25-53
+uses-sdk
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/543576dc17d81a69d860d154b4a84550/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/543576dc17d81a69d860d154b4a84550/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/87f2cbd035863a17ecfefd1e98d142a3/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/87f2cbd035863a17ecfefd1e98d142a3/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/admin/.gradle/caches/transforms-2/files-2.1/907bc68f9304b066dadf3ca5fc0b3718/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/admin/.gradle/caches/transforms-2/files-2.1/907bc68f9304b066dadf3ca5fc0b3718/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/32a5a2cb39785c813469e8ff606ea1aa/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/32a5a2cb39785c813469e8ff606ea1aa/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/85413a20869172d0d639820e30447e01/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/85413a20869172d0d639820e30447e01/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/1f68b2952e2c6cae64d31b5fcb1ee47b/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/1f68b2952e2c6cae64d31b5fcb1ee47b/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/bfbb16a8952273d4734488634518723a/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/bfbb16a8952273d4734488634518723a/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/9ec5d2433eef923cc5afa6ad3f9de6f1/exoplayer-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/9ec5d2433eef923cc5afa6ad3f9de6f1/exoplayer-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/57f45b0254c33b6ff73db96f79ad34c4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/57f45b0254c33b6ff73db96f79ad34c4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9e616f288b9d36258a1b35328b5a6955/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9e616f288b9d36258a1b35328b5a6955/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/0a427d6ce5212da5be8288d8d2907f7f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/0a427d6ce5212da5be8288d8d2907f7f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/319489e91c0ce08f1037364f68815c19/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/319489e91c0ce08f1037364f68815c19/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/411a8340be30b3a557e5be3132599165/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/411a8340be30b3a557e5be3132599165/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/78a331dbcf50c616fb569de9702bb8f4/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/78a331dbcf50c616fb569de9702bb8f4/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dc8ca8b35a0bbe8bdbb0185f9ef738d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dc8ca8b35a0bbe8bdbb0185f9ef738d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5eef5c511ebb8ba5e5d3139f2a967e74/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5eef5c511ebb8ba5e5d3139f2a967e74/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/331060ca584e4481b08baacb3b238976/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/331060ca584e4481b08baacb3b238976/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/57f3b689fca02b32b838afad4a871174/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/57f3b689fca02b32b838afad4a871174/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bfe1cb666a5fc5338bbaa0edf39402a1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bfe1cb666a5fc5338bbaa0edf39402a1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7d683ae9b5c5afbe754341019a9924a9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7d683ae9b5c5afbe754341019a9924a9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/37296bbe7a5286e7d2591897fb38f212/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/37296bbe7a5286e7d2591897fb38f212/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6c9b35a6b1f8efe62c76bd5d76d83e08/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6c9b35a6b1f8efe62c76bd5d76d83e08/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/fc5af0a0644f76937a199afc19f29c4d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/fc5af0a0644f76937a199afc19f29c4d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7b5e8430b60f5b481d95a70be6ae161a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7b5e8430b60f5b481d95a70be6ae161a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/29d0746cd1eac81edd8810736ebea592/exoplayer-ui-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/29d0746cd1eac81edd8810736ebea592/exoplayer-ui-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/5dc778097e93921154157b3a4c24ba8e/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/5dc778097e93921154157b3a4c24ba8e/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943f4d82a7c259b45b629ac495d8e31e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a3d96439bd225b6c5ff0e02c67082dae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a3d96439bd225b6c5ff0e02c67082dae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b5b23c677ec7d6e3b0c526db16544fc1/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b5b23c677ec7d6e3b0c526db16544fc1/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/2f2a24efab011d5c8ee4d1412a0d2432/exoplayer-dash-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/2f2a24efab011d5c8ee4d1412a0d2432/exoplayer-dash-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/08440bb6f6bafdc7938ad72fa6582fb2/exoplayer-hls-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/08440bb6f6bafdc7938ad72fa6582fb2/exoplayer-hls-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/17d3554d3f66b1cf6a0950d131b31913/exoplayer-smoothstreaming-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/17d3554d3f66b1cf6a0950d131b31913/exoplayer-smoothstreaming-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/46129a4685578d3901e8567b6225ec94/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/46129a4685578d3901e8567b6225ec94/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/134d245d9651542f07871bdd7ce4f79a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/134d245d9651542f07871bdd7ce4f79a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/be89e7935a4df91222f1108fb7971313/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/be89e7935a4df91222f1108fb7971313/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/61a06285d744c7ba7ba8223e5c6b6fce/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/61a06285d744c7ba7ba8223e5c6b6fce/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e8fd8387966b376eea2b137d3a1b3662/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e8fd8387966b376eea2b137d3a1b3662/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9bd49159e89768a76a50ac0a4f61eec8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9bd49159e89768a76a50ac0a4f61eec8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a6724ac5e57a0e074e6f121f81e05c3d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a6724ac5e57a0e074e6f121f81e05c3d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f83235792c88866d71bf45ed3b570485/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f83235792c88866d71bf45ed3b570485/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b1b87304918e2c86df11fe77f96de18a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b1b87304918e2c86df11fe77f96de18a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/aa2b8237eb4092400120d1e4b86ce28e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/aa2b8237eb4092400120d1e4b86ce28e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/807508998231e630b6615868d85a77ad/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/807508998231e630b6615868d85a77ad/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/AudioStream-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/0824ef5653d3c292b0d713e18e12b522/exoplayer-core-2.10.8/AndroidManifest.xml:24:22-76
